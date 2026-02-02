@@ -2,7 +2,11 @@
 
 **`Desenvolvedor Back End`**
 
-Me chamo Pedro, tenho 22 anos e estou iniciando minha jornada na programação. Tenho 5 anos de experiência no mercado de trabalho, sendo 2 anos em uma empresa de engenharia e, atualmente, há 3 anos atuo em uma Fintech. Em dezembro de 2024, passei a integrar o time de tecnologia da Solfácil como engenheiro de suporte, focado na área de sustentação. Estou cursando Ciência da Computação e, ao longo da minha trajetória, concluí cursos em Python, CMD, JavaScript e informática. Sou movido por desafios, tecnologia e aprendizado constante. Você pode me encontrar no "[LinkedIn](www.linkedin.com/in/pedro-henrique-evangelista-860310215)".
+Me chamo Pedro, tenho 23 anos e estou em constante evolução na área de tecnologia. Possuo 6 anos de experiência no mercado de trabalho, sendo 2 anos em uma empresa de engenharia e 4 anos atuando em uma Fintech.
+
+Em dezembro de 2024, passei a integrar o time de tecnologia da Solfácil como Engenheiro de Suporte, com foco na área de sustentação. Atualmente, curso Ciência da Computação e, ao longo da minha trajetória, concluí diversos cursos na Alura, com ênfase em Python, lógica de programação, CMD, entre outros.
+
+Sou movido por desafios, tecnologia e aprendizado contínuo, sempre buscando evoluir minhas habilidades e entregar soluções eficientes. Você pode me encontrar no "[LinkedIn](www.linkedin.com/in/pedro-henrique-evangelista-860310215)".
 
 <a href="https://www.linkedin.com/in/pedro-henrique-evangelista-860310215" target="_blank">
   <img
