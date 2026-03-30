@@ -4,7 +4,7 @@
 
 Me chamo Pedro, tenho 23 anos e estou em constante evolução na área de tecnologia. Possuo 6 anos de experiência no mercado de trabalho, sendo 2 anos em uma empresa de engenharia e 4 anos atuando em uma Fintech.
 
-Em dezembro de 2024, passei a integrar o time de tecnologia da Solfácil como Engenheiro de Suporte, com foco na área de sustentação. Atualmente, curso Ciência da Computação e, ao longo da minha trajetória, concluí diversos cursos na Alura, com ênfase em Python, lógica de programação, CMD, entre outros.
+Em dezembro de 2024, passei a integrar o time de tecnologia da Solfácil como Analista de Suporte a Sistemas, com foco na área de sustentação. Atualmente, curso Ciência da Computação e, ao longo da minha trajetória, concluí diversos cursos na Alura, com ênfase em Python, lógica de programação, CMD, entre outros.
 
 Sou movido por desafios, tecnologia e aprendizado contínuo, sempre buscando evoluir minhas habilidades e entregar soluções eficientes. Você pode me encontrar no "[LinkedIn](www.linkedin.com/in/pedro-henrique-evangelista-860310215)".
 
